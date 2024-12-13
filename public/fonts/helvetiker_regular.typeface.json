@@ -1,0 +1,18 @@
+{
+  "glyphs": {
+    "W": {"ha":1294,"x_min":0,"x_max":1294,"o":"M 647 0 L 970 1294 L 1294 0 M 323 0 L 0 1294 L 323 0 M 323 0 L 647 1294 L 970 0"},
+    "e": {"ha":980,"x_min":0,"x_max":980,"o":"M 490 0 C 219 0 0 219 0 490 C 0 761 219 980 490 980 C 761 980 980 761 980 490 L 490 490"},
+    "l": {"ha":372,"x_min":0,"x_max":372,"o":"M 186 0 L 186 1294"},
+    "c": {"ha":926,"x_min":0,"x_max":926,"o":"M 926 153 C 833 57 705 0 563 0 C 252 0 0 252 0 563 C 0 874 252 1126 563 1126 C 705 1126 833 1069 926 973"},
+    "o": {"ha":1000,"x_min":0,"x_max":1000,"o":"M 500 0 C 224 0 0 224 0 500 C 0 776 224 1000 500 1000 C 776 1000 1000 776 1000 500 C 1000 224 776 0 500 0"},
+    "m": {"ha":1479,"x_min":0,"x_max":1479,"o":"M 185 0 L 185 739 C 185 901 317 1033 479 1033 C 641 1033 773 901 773 739 L 773 0 M 1109 0 L 1109 739 C 1109 901 1241 1033 1403 1033 C 1565 1033 1697 901 1697 739 L 1697 0"}
+  },
+  "familyName": "Helvetiker",
+  "ascender": 1294,
+  "descender": -200,
+  "underlinePosition": -100,
+  "underlineThickness": 50,
+  "boundingBox": {"yMin":-200,"xMin":-200,"yMax":1294,"xMax":1697},
+  "resolution": 1000,
+  "original_font_information": {"format":0,"copyright":"Copyright (c) 2010-2011 by tyPoland Lukasz Dziedzic with Reserved Font Name \"Lato\". Licensed under the SIL Open Font License, Version 1.1.","fontFamily":"Helvetiker","fontSubfamily":"Regular","uniqueID":"tyPolandLukaszDziedzic: Lato Regular: 2011","fullName":"Lato Regular","version":"Version 1.104; Western+Polish opensource","postScriptName":"Lato-Regular","trademark":"Lato is a trademark of tyPoland Lukasz Dziedzic.","manufacturer":"tyPoland Lukasz Dziedzic","designer":"Lukasz Dziedzic","manufacturerURL":"http://www.typoland.com/","designerURL":"http://www.typoland.com/","licence":"This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL","licenceURL":"http://scripts.sil.org/OFL","preferredFamily":"Lato","preferredSubfamily":"Regular"}
+}
